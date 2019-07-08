@@ -8,12 +8,12 @@
 
 .jumbotext h1 {
   color: whitesmoke;
-  font-family: "Barriecito", cursive;
+  font-family: "Work Sans", sans-serif;
 }
 
 .jumbotext p {
   color: white;
-  font-family: "Barriecito", cursive;
+  font-family: "Work Sans", sans-serif;
   font-size: 25px;
 }
 
@@ -21,15 +21,19 @@
   color: white;
 }
 
-.space {
-  margin: 10px 0 10px 0;
-  height: 70px;
-}
-
 .producteurtitre {
-  font-family: "Barriecito", cursive;
+  font-family: "Work Sans", sans-serif;
   text-align: center;
   padding-top: 25px;
   margin-bottom: 25px;
+  margin-left: 25px;
   height: 100px;
+}
+
+.btnpos {
+  margin: 40px 0 0 0;
+}
+
+#btn1 {
+  margin-bottom: 40px;
 }
