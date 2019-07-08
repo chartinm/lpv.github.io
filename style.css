@@ -1,0 +1,35 @@
+.jumbotron {
+  height: 750px;
+  background-image: url("img/children.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.jumbotext h1 {
+  color: whitesmoke;
+  font-family: "Barriecito", cursive;
+}
+
+.jumbotext p {
+  color: white;
+  font-family: "Barriecito", cursive;
+  font-size: 25px;
+}
+
+.jumbotron .btn {
+  color: white;
+}
+
+.space {
+  margin: 10px 0 10px 0;
+  height: 70px;
+}
+
+.producteurtitre {
+  font-family: "Barriecito", cursive;
+  text-align: center;
+  padding-top: 25px;
+  margin-bottom: 25px;
+  height: 100px;
+}
